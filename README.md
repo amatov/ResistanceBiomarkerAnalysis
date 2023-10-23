@@ -4,5 +4,3 @@
 
 #### Maria Thadani-Mulero, Luigi Portella, Shihua Sun, Matt Sung, Alex Matov, Bob Vessella, Eva Corey, David Nanus, Stephen Plymate, Evi Giannakakou "Androgen Receptor Splice Variants Determine Taxane Sensitivity in Prostate Cancer (2014)"
 
-### The patient blood samples analyzed were from clinical studies with IRB protocols 0804009740 and 0707009283 at Cornell Medicine and NCT01718353 phase II clinical trial sponsored by Sanofi for early switch from Docetaxel to Cabazitaxel in metastatic castrate-resistant prostate cancer 
-
