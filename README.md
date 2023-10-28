@@ -1,4 +1,4 @@
-### The Matlab code I wrote for the analysis of treatment resistance biomarkers based on the drug-induced microtubule bundling and nuclear androgen receptor localization for the publications:
+### The Matlab code I wrote for the analysis of treatment resistance and sensitivity biomarkers based on the drug-induced microtubule bundling and nuclear androgen receptor localization for the publications:
 
 #### Matt Sung, Evi Giannakakou "BRCA1 Regulates Microtubule Dynamics and Taxane-Induced Apoptotic Cell Signaling (2014)"
 
