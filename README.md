@@ -4,5 +4,5 @@
 
 #### Maria Thadani-Mulero, Luigi Portella, Shihua Sun, Matt Sung, Alex Matov, Bob Vessella, Eva Corey, David Nanus, Stephen Plymate, Evi Giannakakou "Androgen Receptor Splice Variants Determine Taxane Sensitivity in Prostate Cancer (2014)" https://aacrjournals.org/cancerres/article/74/8/2270/599363/Androgen-Receptor-Splice-Variants-Determine-Taxane
 
-### Please also refer to: http://dx.doi.org/10.13140/RG.2.2.36808.90886 and http://dx.doi.org/10.13140/RG.2.2.15239.37286
+### Please also refer to: (8 PDF files) http://dx.doi.org/10.13140/RG.2.2.36808.90886 and (8 PDF files) http://dx.doi.org/10.13140/RG.2.2.15239.37286
 
