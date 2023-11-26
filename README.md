@@ -1,8 +1,8 @@
 ### The Matlab code I wrote for the analysis of treatment resistance and sensitivity biomarkers based on the drug-induced microtubule bundling and nuclear androgen receptor localization for the publications:
 
-#### Matt Sung, Evi Giannakakou "BRCA1 Regulates Microtubule Dynamics and Taxane-Induced Apoptotic Cell Signaling (2014)"
+#### Matt Sung, Evi Giannakakou "BRCA1 Regulates Microtubule Dynamics and Taxane-Induced Apoptotic Cell Signaling (2014)" https://www.nature.com/articles/onc201385
 
-#### Maria Thadani-Mulero, Luigi Portella, Shihua Sun, Matt Sung, Alex Matov, Bob Vessella, Eva Corey, David Nanus, Stephen Plymate, Evi Giannakakou "Androgen Receptor Splice Variants Determine Taxane Sensitivity in Prostate Cancer (2014)"
+#### Maria Thadani-Mulero, Luigi Portella, Shihua Sun, Matt Sung, Alex Matov, Bob Vessella, Eva Corey, David Nanus, Stephen Plymate, Evi Giannakakou "Androgen Receptor Splice Variants Determine Taxane Sensitivity in Prostate Cancer (2014)" https://aacrjournals.org/cancerres/article/74/8/2270/599363/Androgen-Receptor-Splice-Variants-Determine-Taxane
 
-### Please also refer to: https://researchgate.net/publication/374166846_Optimal_Treatment_and_Dose_Selection_in_Receptor_Triple-Negative_Breast_Cancer_2012_-_2017
+### Please also refer to: http://dx.doi.org/10.13140/RG.2.2.36808.90886
 
