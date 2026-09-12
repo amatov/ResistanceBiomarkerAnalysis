@@ -1,6 +1,8 @@
 function bundlingMT4
 
+% EDIT: hardcoded absolute path to the original author's machine
 I = double(imread('D:\matlab\CTC\Matt\A549_CTL_DA.TIF')); % Matt's bad example pos 350 DAPI/blue merging detected cells
+% EDIT: hardcoded absolute path to the original author's machine
 It = double(imread('D:\matlab\CTC\Matt\A549_CTL_TU.TIF')); % Matt's bad example pos 350 DAPI/blue merging detected cells
 
 % I = Gauss2D(I,2);

@@ -4,8 +4,11 @@ function [ CTC, CD45 ] = CTC()
 
 
 % read 3 images
+% EDIT: hardcoded absolute path to the original author's machine
 I4 = imread('C:\matov\data\CTC\G_PT1_T48\G Pt1 T48 Pos 1-224\G Pt 1 T48-0022_p000048t00000001z003c04.tif');
+% EDIT: hardcoded absolute path to the original author's machine
 I3 = imread('C:\matov\data\CTC\G_PT1_T48\G Pt1 T48 Pos 1-224\G Pt 1 T48-0022_p000048t00000001z003c03.tif');
+% EDIT: hardcoded absolute path to the original author's machine
 I2 = imread('C:\matov\data\CTC\G_PT1_T48\G Pt1 T48 Pos 1-224\G Pt 1 T48-0022_p000048t00000001z003c02.tif');
 
 % crop debug area of all 3 images

@@ -1,6 +1,8 @@
     fltr4accum = [1 2 1; 2 6 2; 1 2 1];
     fltr4accum = fltr4accum / sum(fltr4accum(:));
+    % EDIT: hardcoded absolute path to the original author's machine
     rawimg = double(imread('C:\Documents and Settings\amatov.LCCBWS035\Desktop\Matt\SD images\A549_PTX\A549_PTX_TU.TIF'));
+        % EDIT: hardcoded absolute path to the original author's machine
         rawimg1 = double(imread('C:\Documents and Settings\amatov.LCCBWS035\Desktop\Matt\SD images\A549_PTX\A549_PTX_DA.TIF'));
     tic;
     [accum, circen,cirrad,dbg_LMmask] = CircularHough_Grd(rawimg, ...
@@ -36,6 +38,7 @@ end
     
         fltr4accum = [1 2 1; 2 6 2; 1 2 1];
     fltr4accum = fltr4accum / sum(fltr4accum(:));
+    % EDIT: hardcoded absolute path to the original author's machine
     rawimg = double(imread('C:\Documents and Settings\amatov.LCCBWS035\Desktop\Matt\SD images\B1KD_PTX\B1KD_PTX_TU.TIF'));
     tic;
     [accum, circen,cirrad,dbg_LMmask] = CircularHough_Grd(rawimg, ...
