@@ -1,4 +1,4 @@
-## ResistanceBiomarkerAnalysis
+## Resistance Biomarker Analysis
 
 The Matlab code I wrote for the analysis of treatment resistance and sensitivity biomarkers.
 
