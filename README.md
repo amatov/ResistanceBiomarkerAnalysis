@@ -2,7 +2,7 @@
 
 ## Quick start
 
-This repository implements MATLAB analysis of treatment resistance and
+This repository implements Matlab analysis of treatment resistance and
 sensitivity biomarkers via drug-induced microtubule bundling and
 nuclear androgen receptor localization. See
 [DEPENDENCIES.md](DEPENDENCIES.md) for the Image Processing Toolbox

@@ -1,5 +1,5 @@
 # Dependencies
 
-No specific MATLAB version is recorded. Several scripts use `imread`,
+No specific Matlab version is recorded. Several scripts use `imread`,
 `imshow`, `bwlabel`, `regionprops`, and `watershed`, which require
-MATLAB's **Image Processing Toolbox**.
+Matlab's **Image Processing Toolbox**.
