@@ -21,7 +21,7 @@ requirement.
   `HoughCtc.m`, `CircularHough_Grd.m`, `DrawCircle.m` -- circulating
   tumor cell detection via circular Hough transform (see LICENSE for
   `CircularHough_Grd.m`'s origin).
-- `reports/` -- PDF reports and conference posters.
+- [`reports/`](reports/) -- PDF reports and conference posters.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
